@@ -1,0 +1,292 @@
+/** HOME PAGE**/
+
+body {
+	color: black;
+}
+
+/** NAVIGATION STYLES **/
+
+ul {
+    float: left;
+    list-style-type: none;
+    padding: 5px 15px;
+}
+
+
+li {
+    display: inline;
+    font-size: 22px;
+}
+
+
+li a {
+    color: black;
+    padding: 10px 20px 20px 20px;
+    margin-left: 80px;
+}
+
+
+ul li a {
+    display: inline;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: white;
+}
+
+.navbar label, #hamburger {
+    display: none;
+}
+
+
+/** IMAGE STYLES **/
+
+.container {
+    width: 100%;
+}
+
+img {
+	max-width: 100%;
+    max-height: 100%;
+}
+
+#cnTower {
+	position: relative;
+	width: 400px;
+	height: 250px;
+	left: 20%;
+}
+
+#myPhoto {
+	position: relative;
+	width: 400px;
+	height: 250px;
+	left: 100px;
+}
+
+/** ROW STYLES **/
+
+.row {
+    margin-bottom: 30px;
+}
+
+/** HEADER STYLES **/
+#headerText {
+	margin: 60px;
+	margin-right: 100px;
+}
+#paraHome {
+	margin: 20px 20px 20px 40px;
+	padding-left: 100px;
+	font-size: 20px;
+}
+
+#date {
+	position: relative;
+	color: blue;
+	font-size: 16px;
+	text-align: center;
+	bottom: 5px;
+}
+
+#paraIntroText {
+	position: relative;
+	font-size: 20px;
+	bottom: 150px;
+	width: 50%;
+}
+
+#resume {
+	position: relative;
+	font-size: 20px;
+	bottom: 100px;
+	width: 50%;
+}
+
+
+/** ---------------------------------------------------------------------- **/
+
+/** ABOUT ME PAGE **/ 
+
+/** PARAGRAPH STYLES **/
+
+.aboutTextOne {
+    font-size: 18px;
+}
+
+.aboutMe:active {
+    background-color: yellow;
+}
+
+/** ---------------------------------------------------------------------- **/
+
+/**CONTACT PAGE **/
+
+/** HEADING STYLES **/
+.contactHeader {
+    text-align: left;
+    font-size: 38px;
+}
+
+.contactHeaderInfo {
+    text-align: center;
+}
+
+/** PARAGRAPH STYLES **/
+.contactParagraph {
+    text-align: left;
+    font-size: 20px;
+}
+
+/** IMAGE STYLES **/
+#linkedIn, #gmail {
+    width: 2%;
+    height: 5%;
+}
+
+/** HORIZONTAL LINE TO BREAK UP CONTENT **/
+/** Used this as CSS for the line: https://love2dev.com/blog/html-horizontal-line/ **/
+.contactHorizontalLine {
+    display: block;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+/** ---------------------------------------------------------------------- **/
+
+/** SKILLS PAGE **/
+
+/** IMAGE STYLES **/
+#pythonLogo {
+	width: 25%;
+}
+
+#javaLogo {
+	width: 45%;
+}
+
+#cSharpLogo {
+	width: 30%;
+}
+
+#cPlusPlusLogo {
+	width: 28%;
+}
+
+#phpLogo {
+	width: 25%;
+}
+
+#htmlLogo {
+	width: 20%;
+}
+
+#cssLogo {
+	width: 15%;
+}
+
+#javascriptLogo {
+	width: 20%;
+}
+
+#sqlLogo {
+	width: 25%;
+}
+
+#androidLogo {
+	width: 30%;
+}
+
+#pythonHeader {
+	padding-top: 5px;
+}
+
+#javaHeader {
+	padding-top: 10px;
+}
+
+#javaText {
+	padding-bottom: 10px;
+}
+
+#cSharpHeader {
+	padding-top: 5px;
+}
+
+#cSharpText {
+	padding-bottom: 10px;
+}
+
+#phpHeader {
+	padding-top: 10px;
+}
+
+
+#phpText {
+	padding-top: 5px;
+}
+/** ---------------------------------------------------------------------- **/
+
+/** WORK SAMPLES PAGE **/
+
+/** HEADER STYLES **/
+
+.jobFairHeader, .conversionHeader, .dataA1Header, .collegeAppHeader, .phaserHeader {
+    border-style: solid;
+}
+
+/** DESCRIPTION STYLES **/
+.jobFairDescription, .conversionDescription, .dataA1Description, .collegeAppDescription, .phaserDescription {
+    font-size: 16px;
+}
+
+/** IMAGE STYLES **/
+
+#conversionBefore, #conversionAfter {
+    width: 300px;
+    height: 300px;
+}
+
+#collegeApp {
+    width: 300px;
+    height: 300px;
+}
+
+#collegeAppPopup {
+    width: 400px;
+    height: 200px;
+}
+
+#collegeAppResult {
+    width: 500px;
+    height: 200px;
+}
+
+#currencyStartup {
+    width: 600px;
+    height: 400px;
+}
+
+#currencyUpdate {
+    width: 200px;
+    height: 200px;
+}
+
+#phaserGameOne, #phaserGameTwo, #phaserGameThree {
+	width: 350px;
+	height: 350px;
+}
+
+#jobFairSite {
+	width: 600px;
+	height: 350px;
+}
+#jobFairSiteTwo {
+	width: 650px;
+	height: 350px;
+}
