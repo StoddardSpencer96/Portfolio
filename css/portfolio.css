@@ -31,11 +31,11 @@ ul li a {
 }
 
 a:hover {
-    color: yellow;
+    color: black;
 }
 
 a:active {
-    color: white;
+    color: blue;
 }
 
 .navbar label, #hamburger {
@@ -236,12 +236,12 @@ img {
 
 /** HEADER STYLES **/
 
-.jobFairHeader, .conversionHeader, .dataA1Header, .collegeAppHeader, .phaserHeader {
+.jobFairHeader, .conversionHeader, .dataA1Header, .collegeAppHeader, .phaserHeader, .vexMonstersHeader {
     border-style: solid;
 }
 
 /** DESCRIPTION STYLES **/
-.jobFairDescription, .conversionDescription, .dataA1Description, .collegeAppDescription, .phaserDescription {
+.jobFairDescription, .conversionDescription, .dataA1Description, .collegeAppDescription, .phaserDescription, .sourceCodeTitle, .vexMonstersDescription {
     font-size: 16px;
 }
 
