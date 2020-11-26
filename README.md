@@ -1,5 +1,3 @@
-# Portfolio
-My portfolio website
+# Portfolio of Spencer Stoddard
 
-
-For an updated version, please visit http://spencerstoddard.epizy.com/
+Hi! For an updated version of the website, please visit http://spencerstoddard.epizy.com/
